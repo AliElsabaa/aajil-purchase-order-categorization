@@ -21,5 +21,3 @@
 - **VS Code** with Jupyter extension for notebook development
 - **Python** for data processing and analysis
 - **Git** for version control
-
-[... rest of the README content ...]
